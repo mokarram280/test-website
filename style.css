@@ -1,0 +1,9 @@
+.h1{
+    text-align: center;
+    background-color: green;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+h1:hover{
+    background-color: red;
+}
